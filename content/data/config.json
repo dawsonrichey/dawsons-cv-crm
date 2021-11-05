@@ -6,7 +6,7 @@
     "header": {
         "title": "Dawson's Geek",
         "tagline": "Web Dev",
-        "profile_img": "images/avatar.png",
+        "profile_img": "/images/dawson-58a05b04.jpg",
         "profile_img_alt": "Dawson Richey",
         "background": "dark",
         "has_nav": true,
