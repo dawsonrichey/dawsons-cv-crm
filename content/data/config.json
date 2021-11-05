@@ -68,7 +68,7 @@
                 "new_window": true
             },
             {
-                "label": "DEV",
+                "label": "GitHub",
                 "url": "https://dev.to/",
                 "style": "icon",
                 "icon_class": "github",
